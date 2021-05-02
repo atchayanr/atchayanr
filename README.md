@@ -1,6 +1,7 @@
 ![github](https://user-images.githubusercontent.com/75022803/116808017-57ae2880-aaeb-11eb-88fa-614bcb8776b2.jpg)
 
 <h1 align="center">Hi 👋, I'm Atchaya N R</h1>
+
 <h3 align="center">A girl who thinks creatively and loves to explore new skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atchayanr&label=Profile%20views&color=0e75b6&style=flat" alt="atchayanr" /> </p>
@@ -8,7 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atchayanr" alt="atchayanr" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+  
 <a href="https://linkedin.com/in/www.linkedin.com/in/atchaya-n-r-b641a8200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/atchaya-n-r-b641a8200" height="30" width="40" /></a>
 </p>
 
