@@ -24,7 +24,7 @@
 </p>
 <details>
   <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="atchayanr's GitHub Stats" src="https://github-readme-stats-atchayanr.vercel.app/api?username=atchayanr&show_icons=true&hide_border=true&theme=cobalt" />
+<img align="left" alt="atchayanr's GitHub Stats" src="https://github-readme-stats-atchayanr.vercel.app/api?username=atchayanr&show_icons=true&hide_border=true" />
  </details>
  
  <details>
