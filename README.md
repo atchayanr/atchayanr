@@ -11,10 +11,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  
-<a href="https://www.linkedin.com/in/atchayanr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/atchayanr/" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/atchayanr/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
