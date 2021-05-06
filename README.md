@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atchayanr&label=Profile%20views&color=0e75b6&style=flat" alt="atchayanr" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atchayanr" alt="atchayanr" /></a> </p>
+<p align="left"> <a href="https://github.com/atchayanr/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atchayanr&margin-w=15&margin-h=15&title=Joined2020,Followers,Commit,Repositories,Stars" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
