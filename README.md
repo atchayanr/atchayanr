@@ -1,6 +1,7 @@
 ![github](https://user-images.githubusercontent.com/75022803/116808017-57ae2880-aaeb-11eb-88fa-614bcb8776b2.jpg)
 
-<h1 align="center">Hi 👋, I'm Atchaya N R</h1>
+<h1 align="center">Hi,I'm Atchaya N R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+
 
 <h3 align="center">A girl who thinks creatively and loves to explore new skills.</h3>
 
