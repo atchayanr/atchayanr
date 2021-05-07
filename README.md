@@ -5,6 +5,8 @@
 
 <h3 align="center">A girl who thinks creatively and loves to explore new skills.</h3>
 
+- 🌱 I’m currently learning **flutter app development**<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atchayanr&label=Profile%20views&color=0e75b6&style=flat" alt="atchayanr" /> </p>
 
 
@@ -30,10 +32,14 @@
 <img align="left" alt="atchayanr's GitHub Stats" src="https://github-readme-stats-atchayanr.vercel.app/api?username=atchayanr&show_icons=true&hide_border=true" />
  </details>
  
+ 
  <details>
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Atchaya's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atchayanr" />
 
 </details>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atchayanr&" alt="atchayanr" /></p>
+
 <br>
